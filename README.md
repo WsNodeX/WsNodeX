@@ -5,6 +5,14 @@ and Java, and Agent Skills that fix what AI writes.
 
 ---
 
+**[Quiver](https://github.com/WsNodeX/quiver) — 12 Agent Skills for the job hunt.**
+
+Read a JD, work out what you are missing, drill the interview, fix the résumé,
+write the weekly report, defend the internship, negotiate the offer, pick between
+them. One chain, twelve skills, installs in one command.
+
+---
+
 **Two skills, one idea: write for the reader, not the author.**
 
 | Project | The failure it fixes |
@@ -15,8 +23,6 @@ and Java, and Agent Skills that fix what AI writes.
 Both ship a checker rather than advice, and both are held to their own rules:
 `readme-forge` audits its own README on every push; `inheritor`'s CI fails if the
 checker reports anything against itself.
-
----
 
 **Same design, two languages.** Each pair below is one piece of thinking
 implemented twice — once on the JDK, once on the Python standard library, with the
@@ -61,4 +67,4 @@ so it has to be rediscovered.
 
 ---
 
-<sub>[readme-forge](https://github.com/WsNodeX/readme-forge) · [inheritor](https://github.com/WsNodeX/inheritor) · 中文文档在各仓库 `i18n/` 下</sub>
+<sub>[readme-forge](https://github.com/WsNodeX/readme-forge) · [inheritor](https://github.com/WsNodeX/inheritor) · [quiver](https://github.com/WsNodeX/quiver)</sub>
